@@ -5,12 +5,15 @@ Author: Christopher T. Herrera (eefretsoul AT gmail DOT com)
 
 This is a free google translate api for golang, it uses google translate.
 
+> This project forked from [eefret/gotranslate](https://github.com/eefret/gotranslate) fixed and update code
+
+
 Project Usage
 -------------
 The API usage is very simple. Just import the gotranslate package
 
 	import (
-		"github.com/eefret/gotranslate"
+		"github.com/hoathienvu8x/gotranslate"
 	)
 
 You can use the quick translation:
